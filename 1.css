@@ -96,3 +96,9 @@ button.w{background-color:rgb(92, 219, 177)}
 button.e{background-color: rgb(231, 148, 162);}
 button.r{background-color: rgb(144, 232, 127);}
 button.t{background-color: blueviolet;}
+article.arti{
+    border: solid 1px; 
+    box-shadow: 0 5px 20px 3px; 
+    margin-top: 20px; 
+    margin-left: 20px;
+}
